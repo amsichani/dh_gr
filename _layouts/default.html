@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  {% include header.html %}
+  <body>
+    <header role="banner" class="header-cont">
+    <h1><a href="{{ site.url }}">Anna-Maria Sichani</a></h1>
+	{% include menu.html %}
+	</header>
+	<div role="main">
+	{{content}}
+    </div>
+	  {% include footer.html %}
+    </body>
+</html>
