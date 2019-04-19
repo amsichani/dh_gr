@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ταυτότητα και Στόχοι
-redirect_from: /identity_goals.html
 ---
 # Ταυτότητα και Στόχοι
 
