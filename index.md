@@ -4,9 +4,7 @@ title: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Αν�
 
 ---
 
-<figure>
-	<img src="https://amsichani.github.io/dh_gr/images/dhgr.png" width="280px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
-</figure>
+
 
 ## Ποιοί είμαστε
 
