@@ -1,0 +1,11 @@
+name: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Ανθρωπιστικών Επιστημών/ Greek Digital Humanities Research Network (@DH_GR)
+permalink: :categories/:title
+exclude: [deprecated, vendor, Gemfile, Procfile]
+
+twitter_username:     dhgrnetwork
+
+safe: true
+highlighter: rouge
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
