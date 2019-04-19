@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Ανθρωπιστικών Επιστημών/ Greek Digital Humanities Research Network (@DH_GR)
-redirect_from: /about.html
+
 ---
 ## Ποιοί είμαστε
 
