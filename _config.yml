@@ -1,4 +1,5 @@
-name: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Ανθρωπιστικών Επιστημών/ Greek Digital Humanities Research Network (@DH_GR)
+name: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Ανθρωπιστικών Επιστημών
+description: Greek Digital Humanities Research Network (@DH_GR)
 permalink: :categories/:title
 exclude: [deprecated, vendor, Gemfile, Procfile]
 
