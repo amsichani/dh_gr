@@ -9,3 +9,5 @@ highlighter: rouge
 markdown: kramdown
 gems:
   - jekyll-redirect-from
+
+theme: jekyll-theme-minimal
